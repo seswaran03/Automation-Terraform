@@ -1,5 +1,5 @@
 # Automation-Terraform
-CCGC 5502 Automation Assignment
+CCGC 5502 Automation Assignment -
 This assignment provides learners with a real-world challenging scenario of codifying infrastructure
 and provisioning it in the Azure cloud. The assignment challenges them to apply their Terraform and
 Microsoft Azure knowledge and skills gained from the course to build a highly available, scalable,
